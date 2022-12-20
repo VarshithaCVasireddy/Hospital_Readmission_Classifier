@@ -106,6 +106,6 @@ Below are the fields present in data
 26. Transfer from Hospital
 
 ## **Approach Followed**
-- Developed an ML model that can perform Binary Classification to predict if a Patient with certain attributes like gender, age, admission type into hospital, will be readmitted in the future.
+- Developed an ML model that can perform Binary Classification to predict if a patient with certain attributes like gender, age, etc., will be readmitted in the future.
 - Built a data pipeline using R programming that performs Imputation, Factor-levels collapsing, visit-level to patient-level summarization and models based on Random Forest and XGBoost algorithms.
-- Models built yielded a LogLoss value of 0.635 which resulted in our team standing at 3rd position in the competition.
+- Models built yielded a LogLoss value of 0.635 which resulted in our team standing at 3rd position in the class kaggle competition.
